@@ -4,8 +4,6 @@ I'm a passionate backend developer and in the future frontend developer from Spa
 ## Work
 - 🌱 I’m currently learning **to program web applications**
 - 📫 How to reach me **angelaledo29@gmail.com** or **angelaledo2002@outlook.es**
-- 👨‍💻 All of my projects are available at **https://angelaledo29.github.io/**
-  
 
 ## Skills
 ### Programming Languages
