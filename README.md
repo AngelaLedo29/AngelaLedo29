@@ -3,7 +3,7 @@ I'm a passionate backend developer and in the future frontend developer from Spa
 
 ## Work
 - 🌱 I’m currently learning **to program web applications**
-- 📫 How to reach me **angelaledo29@gmail.com** or **angelaledo2002@outlook.es**
+- 📫 How to reach me **angelaledo29@gmail.com**
 
 ## Skills
 ### Programming Languages
@@ -86,6 +86,9 @@ I'm a passionate backend developer and in the future frontend developer from Spa
 
 ### Other
 <p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
