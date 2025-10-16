@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ángela Ledo Uriel 💻
-I'm a passionate backend developer and in the future frontend developer from Spain.
+I'm a passionate backend and frontend developer from Spain.
 
 ## Work
 - 🌱 I’m currently learning **to program web applications**
